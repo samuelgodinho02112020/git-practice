@@ -1,0 +1,5 @@
+Find your repository URL. It looks like this:
+
+https://github.com/YOUR-USERNAME/git-practice.git
+
+Copy the URL using the copy icon if it's shown. Use your actual GitHub username, not YOUR-USERNAME.
